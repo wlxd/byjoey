@@ -1,6 +1,6 @@
 import { connect } from 'cloudflare:sockets';
 
-let authToken = '351c9981-04b6-4103-aa4b-864aa9c91469';
+let authToken = '601abddc-8bb2-4fed-adc6-e8fa3e3eb206';
 let fallbackAddress = 'bpb.yousef.isegaro.com';
 let fallbackPort = '443';
 let socks5Config = '';
