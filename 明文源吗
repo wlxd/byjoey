@@ -1,7 +1,7 @@
 import { connect } from 'cloudflare:sockets';
 
 let authToken = '601abddc-8bb2-4fed-adc6-e8fa3e3eb206';
-let fallbackAddress = 'bpb.yousef.isegaro.com';
+let fallbackAddress = 'proxyip.multacom.cmliussss.net';
 let fallbackPort = '443';
 let socks5Config = '';
 
